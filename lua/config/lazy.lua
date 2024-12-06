@@ -23,6 +23,7 @@ require("lazy").setup({
 
     -- lang
     { import = "lazyvim.plugins.extras.lang.json" },
+    { import = "lazyvim.plugins.extras.lang.tailwind" },
     { import = "lazyvim.plugins.extras.lang.python" },
 
     { import = "lazyvim.plugins.extras.lsp.none-ls" },
